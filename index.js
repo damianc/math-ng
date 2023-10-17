@@ -11,13 +11,7 @@ Math.ng = {
 	sech: x => 1/Math.cosh(x),
 	csch: x => 1/Math.sinh(x),
 	
-	acoth: x => 0.5*Math.log(
-		(x+1)/(x-1)
-	),
-	asech: x => Math.log(
-		1/x+Math.sqrt(1/(x**2)-1)
-	),
-	acsch: x => Math.log(
-		1/x+Math.sqrt(1/(x**2)+1)
-	)
+	acoth: x => Math.atanh(1/x),
+	asech: x => Math.acosh(1/x),
+	acsch: x => Math.asinh(1/x)
 };
