@@ -7,18 +7,18 @@ Math.ng.cot(1)
 ```
 
 List of methods:
-- `cot()`
-- `sec()`
-- `csc()`
-- `acot()`
-- `asec()`
-- `acsc()`
-- `coth()`
-- `sech()`
-- `csch()`
-- `acoth()`
-- `asech()`
-- `acsch()`
+- `cot()` - cotangent
+- `sec()` - secans
+- `csc()` - cosecans
+- `acot()` - arcus cotangent
+- `asec()` - arcus secans
+- `acsc()` - arcus cosecans
+- `coth()` - hyperbolic cotangent
+- `sech()` - hyperbolic secans
+- `csch()` - hyperbolic cosecans
+- `acoth()` - hyperbolic arcus cotangent
+- `asech()` - hyperbolic arcus secans
+- `acsch()` - hyperbolic arcus cosecans
 
 <!--
 
