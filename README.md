@@ -6,6 +6,22 @@ Set of additional angular methods: [hyperbolic] [arcus] cotangent/secans/cosecan
 Math.ng.cot(1)
 ```
 
+List of methods:
+- `cot()`
+- `sec()`
+- `csc()`
+- `acot()`
+- `asec()`
+- `acsc()`
+- `coth()`
+- `sech()`
+- `csch()`
+- `acoth()`
+- `asech()`
+- `acsch()`
+
+<!--
+
 | Function | Domain | Range of values |
 |--|--|--|
 | `cot(x)` | $x \in \mathbb{R} \ \cap\ x \\% \frac{\pi}{2} \neq 0$ | $y \in \mathbb{R}$ |
@@ -39,3 +55,5 @@ The methods above enriches the list od built-in ones listed below.
 | `asinh(x)` | $x \in \mathbb{R}$ | $y \in \mathbb{R}$ |
 | `acosh(x)` | $x \geq 1$ | $y \geq 0$ |
 | `atanh(x)` | $x \in (-1;1)$ | $y \in \mathbb{R}$ |
+
+-->
