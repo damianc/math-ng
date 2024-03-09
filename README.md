@@ -20,6 +20,10 @@ List of methods:
 - `asech()` - hyperbolic arcus secant
 - `acsch()` - hyperbolic arcus cosecant
 
+----
+
+For even more methods consult [`math-ngx`](https://github.com/damianc/math-ngx/blob/master/README.md).
+
 <!--
 
 | Function | Domain | Range of values |
