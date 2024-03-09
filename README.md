@@ -1,6 +1,6 @@
 # math-ng
 
-Set of additional angular methods: [hyperbolic] [arcus] cotangent/secant/cosecant. These are accessible through `ng` namespace, for example:
+Set of additional angular methods: _[hyperbolic] [arcus] cotangent/secant/cosecant_. These are accessible through `ng` namespace, for example:
 
 ```
 Math.ng.cot(1)
