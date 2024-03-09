@@ -22,7 +22,7 @@ List of methods:
 
 ----
 
-For even more methods consult [`math-ngx`](https://github.com/damianc/math-ngx/blob/master/README.md).
+For even more methods consult [`math-ngx`](https://github.com/damianc/math-ngx).
 
 <!--
 
